@@ -78,5 +78,5 @@ AI-powered smart queue management system with:
 
 # 📫 Connect With Me
 
-- LinkedIn: YOUR_LINK
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/sriram-adithya-5b4764387
+- Email: sriramadithya6@gmail.com
